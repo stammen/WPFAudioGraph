@@ -18,8 +18,7 @@ Sample on how to use Windows 10 AudioGraph from a Win32 WPF App
 This sample is based on this [blog article](https://blogs.windows.com/buildingapps/2017/01/25/calling-windows-10-apis-desktop-application/#lT33KxHF9ZQQCqsi.97]). 
 The following changes were made to allow the project to build with Windows SDK 16299.
 
-
-1. Change the reference to windows.winmd path to:
+* Change the reference to windows.winmd path to:
 
 ```c++
     C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd
