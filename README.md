@@ -15,4 +15,7 @@ Sample on how to use Windows 10 AudioGraph from a Win32 WPF App
 
 ## How to Build
 
-This sample is based on this (blog article)[https://blogs.windows.com/buildingapps/2017/01/25/calling-windows-10-apis-desktop-application/#lT33KxHF9ZQQCqsi.97]
+This sample is based on this [blog article](https://blogs.windows.com/buildingapps/2017/01/25/calling-windows-10-apis-desktop-application/#lT33KxHF9ZQQCqsi.97]). 
+The following changes were made to allow the project to build with Windows SDK 16299.
+
+
