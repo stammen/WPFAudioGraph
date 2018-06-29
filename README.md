@@ -19,3 +19,10 @@ This sample is based on this [blog article](https://blogs.windows.com/buildingap
 The following changes were made to allow the project to build with Windows SDK 16299.
 
 
+1. Change the reference to windows.winmd path to:
+
+```c++
+C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd
+```
+
+
