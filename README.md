@@ -1,5 +1,5 @@
 # WPFAudioGraph
-Sample on how to use Windows 10 AudioGraph from a Win32 WPF App
+An example of how to use the Windows 10 AudioGraph API from a Win32 WPF App
 
 ## Requirements
 * Visual Studio 2017 with Windows Universal App Development package installed
